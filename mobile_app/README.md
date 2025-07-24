@@ -22,7 +22,6 @@ mobile_app/
 ├── assets/               # Fonts, images, etc.
 ├── ids/                  # Captured doctor syndicate ID images
 ├── test/                 # Unit and widget tests
-├── web/                  # Web support (if any)
 ├── pubspec.yaml          # Dependencies
 └── README.md             # This file
 ```
@@ -55,6 +54,57 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+
+## 📱 Screenshots
+
+Here are some screenshots from our MediLink doctor mobile app:
+
+### 🏠 First Screen
+![Home](screenshots/1.png)
+
+### 🔐 Login Screen
+![Login](screenshots/login.png)
+
+### ❓ Forgot Password
+![Forgot Password](screenshots/forget.png)
+
+### ❗ Create Account
+![Create Account 1](screenshots/ca1.png)
+![Create Account 2](screenshots/ca2.png)
+
+### 🏠 Home Screen
+![Home](screenshots/homepage.png)
+
+### ⚙️ Settings
+![Settings](screenshots/settings.png)
+
+### 🌐 Language Selection
+![Language](screenshots/lang.png)
+
+### 👤 Profile
+![Profile](screenshots/profile.png)
+
+### 🔒 Change Password
+![Change Password](screenshots/cp.png)
+
+### ℹ️ About Us
+![About Us](screenshots/aboutus.png)
+
+### 📝 Add Prescription
+![Add Prescription](screenshots/addpre.png)
+
+### ➕ Add Medicine
+![Add Medicine ](screenshots/medicines.png)
+
+### 📃 Medicines List
+![Medicines List](screenshots/medicine.png)
+
+### 📋 All Prescriptions
+![All Prescriptions](screenshots/allpre.png)
+
+### ✏️ Edit Prescription
+![Edit Prescription](screenshots/editpre.png)
 
 ## 🔐 Security Notes
 
