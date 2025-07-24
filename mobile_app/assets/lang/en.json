@@ -1,0 +1,12 @@
+{
+    "app_name": "My App",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "reset_password": "Reset Password",
+    "confirm_password": "Confirm Password",
+    "password_changed": "Password Changed",
+    "ok": "OK",
+    "language": "Language"
+  }
+  

@@ -1,0 +1,55 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  local_auth: ^2.3.0
+  image_picker: ^0.8.7+4
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  shared_preferences: ^2.2.0  # ✅ إضافة مكتبة حفظ الإعدادات (اللغة المختارة)
+  firebase_auth: ^5.5.2
+  firebase_core: ^3.12.1
+  cloud_firestore: ^5.6.5
+  firebase_database: ^11.3.5
+  flutter_screenutil: ^5.9.3
+  flutter_launcher_icons: ^0.14.3
+  lottie: ^3.1.2
+  flutter_secure_storage: ^9.0.0
+  camera: ^0.10.5+2
+  path_provider: ^2.1.1
+  path: ^1.8.0
+  google_mlkit_object_detection: ^0.5.0
+  permission_handler: ^11.0.0
+  
+
+
+# Dev dependencies for testing and linting
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_gen_runner: ^5.3.2  # ✅ إضافة مولد ملفات الترجمة
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  generate: true
+
+  # Image and asset configurations
+  assets:
+    - assets/
+    - assets/animation/
+    
