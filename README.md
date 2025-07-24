@@ -11,6 +11,8 @@
 MediLink-Graduation-Project/
 ├── mobile_app/          # Flutter mobile app for doctors
 ├── web_dashboard/       # Flutter web dashboard for pharmacists
+├── survey/              # Fuzzy logic + survey API for addiction risk evaluation
+├── hl7/                 # HL7-compatible script for data exchange
 ├── LICENSE
 ├── README.md            # This file
 └── .gitignore
@@ -35,6 +37,26 @@ More details inside: [`mobile_app/README.md`](./mobile_app/README.md)
 - Dashboards to monitor dispensed meds and visit history.
 
 More details inside: [`web_dashboard/README.md`](./web_dashboard/README.md)
+
+---
+
+## 🧠 survey
+
+- Python backend to evaluate patient addiction risk using fuzzy logic.
+- Accepts responses from doctors’ mobile app.
+- Integrates with Firestore to store evaluation results.
+
+More details: [`survey/README.md`](./survey/README.md)
+
+---
+
+## 🧾 hl7
+
+- Lightweight Python-based HL7 message simulator.
+- Mimics communication with external hospital systems.
+- Sends patient visit data and medication info using HL7 v2 format.
+
+More details: [`hl7/README.md`](./hl7/README.md)
 
 ---
 
