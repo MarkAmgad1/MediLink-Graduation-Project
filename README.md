@@ -1,34 +1,70 @@
-# 🩺 MediLink – Graduation Project
+# MediLink-Graduation-Project
 
-**MediLink** is a secure prescription tracking system developed as a graduation project for Pharos University – Faculty of Computer Science and Artificial Intelligence, 2025.
-
-This system allows doctors to prescribe medications digitally, patients to retrieve them from pharmacies securely via OTP verification, and pharmacists to track dispensed prescriptions – all while preventing drug misuse.
-
----
-
-## 🧠 Project Components
-
-- 📱 **Mobile App** – Used by doctors to manage prescriptions
-- 💻 **Web Dashboard** – Used by pharmacists to verify and dispense medication
-- 🔐 **Secure OTP System** – Protects patient identity and prevents abuse
-- 📊 **AI Survey Scoring** – Flags risky prescriptions using fuzzy logic
-- 🧬 **HL7 Messaging** – Simulated integration with medical systems
+🎓 Final year graduation project for the Faculty of Computer Science and Artificial Intelligence – Pharos University in Alexandria.  
+💊 MediLink is a smart e-prescription system that prevents medication misuse and connects **doctors**, **pharmacists**, and **patients** securely.
 
 ---
 
-## 📁 Folder Structure
+## 🗂️ Folder Structure
 
-<pre> ``` MediLink-Graduation-Project/ ├── mobile_app/ # Flutter mobile app for doctors ├── web_dashboard/ # Flutter web dashboard for pharmacists ├── LICENSE ├── README.md # This file └── .gitignore ``` </pre>
+```text
+MediLink-Graduation-Project/
+├── mobile_app/          # Flutter mobile app for doctors
+├── web_dashboard/       # Flutter web dashboard for pharmacists
+├── LICENSE
+├── README.md            # This file
+└── .gitignore
+```
+
 ---
 
-## 👨‍🎓 Project Info
+## 📱 mobile_app
 
-- 🎓 Pharos University – CS & AI Faculty (2025)
-- 👨‍💻 Developed by a team of 6 students
-- 🔒 Focused on medical data security & integrity
+- A full-featured **Flutter mobile app** built for **doctors**.
+- Doctors can register, log in, and manage prescriptions.
+- Fingerprint login, secure prescription entry, patient linkage via National ID.
+
+More details inside: [`mobile_app/README.md`](./mobile_app/README.md)
 
 ---
 
-## 📝 License
+## 💻 web_dashboard
 
-This project is licensed under the [MIT License](LICENSE).
+- **Flutter web app** designed for **pharmacists**.
+- Search prescriptions by patient National ID, validate OTP, and mark as dispensed.
+- Dashboards to monitor dispensed meds and visit history.
+
+More details inside: [`web_dashboard/README.md`](./web_dashboard/README.md)
+
+---
+
+## 🔒 Security Notice
+
+GitHub automatically scans for secrets like API keys. If you're working with Firebase or external APIs:
+
+- NEVER push `google-services.json` or `.env` files publicly.
+- Always add sensitive files to `.gitignore`.
+- Rotate and delete any leaked keys immediately.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 👥 Team Members
+
+- Mark Amgad George
+- Joycie Gerges
+- Marwan Mahmoud
+- Samir Saeed
+- Mohamed El Sayed Ayoub
+- Abdelghany Mohamed
+
+---
+
+## 📬 Contact
+
+For inquiries or demo requests, contact: `markamgad18@gmail.com`
