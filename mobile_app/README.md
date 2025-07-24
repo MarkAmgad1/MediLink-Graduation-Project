@@ -61,7 +61,7 @@ flutter run
 Here are some screenshots from our MediLink doctor mobile app:
 
 ### 🏠 First Screen
-![Home](screenshots/1.png)
+![Home](https://github.com/markamgad1234/MediLink-Graduation-Project/blob/main/mobile_app/screenshot/1.png)
 
 ### 🔐 Login Screen
 ![Login](screenshots/login.png)
