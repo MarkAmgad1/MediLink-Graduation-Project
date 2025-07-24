@@ -122,3 +122,5 @@ app.*.symbols
 firebase.json
 google-services.json
 .env
+# 🔐 Firebase config (do not track)
+lib/firebase_config.dart
