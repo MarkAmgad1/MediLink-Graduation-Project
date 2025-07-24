@@ -124,3 +124,12 @@ google-services.json
 .env
 # 🔐 Firebase config (do not track)
 lib/firebase_config.dart
+build/
+.dart_tool/
+.firebase/
+.idea/
+node_modules/
+firebase.json
+lib/firebase_config.dart
+.env
+
