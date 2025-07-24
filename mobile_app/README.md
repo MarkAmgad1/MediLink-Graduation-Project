@@ -61,50 +61,50 @@ flutter run
 Here are some screenshots from our MediLink doctor mobile app:
 
 ### 🏠 First Screen
-![Home](https://github.com/markamgad1234/MediLink-Graduation-Project/blob/main/mobile_app/screenshot/1.png)
+![Home](screenshot/1.png)
 
 ### 🔐 Login Screen
-![Login](screenshots/login.png)
+![Login](screenshot/login.png)
 
 ### ❓ Forgot Password
-![Forgot Password](screenshots/forget.png)
+![Forgot Password](screenshot/forget.png)
 
 ### ❗ Create Account
-![Create Account 1](screenshots/ca1.png)
-![Create Account 2](screenshots/ca2.png)
+![Create Account 1](screenshot/ca1.png)
+![Create Account 2](screenshot/ca2.png)
 
 ### 🏠 Home Screen
-![Home](screenshots/homepage.png)
+![Home](screenshot/homepage.png)
 
 ### ⚙️ Settings
-![Settings](screenshots/settings.png)
+![Settings](screenshot/settings.png)
 
 ### 🌐 Language Selection
-![Language](screenshots/lang.png)
+![Language](screenshot/lang.png)
 
 ### 👤 Profile
-![Profile](screenshots/profile.png)
+![Profile](screenshot/profile.png)
 
 ### 🔒 Change Password
-![Change Password](screenshots/cp.png)
+![Change Password](screenshot/cp.png)
 
 ### ℹ️ About Us
-![About Us](screenshots/aboutus.png)
+![About Us](screenshot/aboutus.png)
 
 ### 📝 Add Prescription
-![Add Prescription](screenshots/addpre.png)
+![Add Prescription](screenshot/addpre.png)
 
 ### ➕ Add Medicine
-![Add Medicine ](screenshots/medicines.png)
+![Add Medicine ](screenshot/medicines.png)
 
 ### 📃 Medicines List
-![Medicines List](screenshots/medicine.png)
+![Medicines List](screenshot/medicine.png)
 
 ### 📋 All Prescriptions
-![All Prescriptions](screenshots/allpre.png)
+![All Prescriptions](screenshot/allpre.png)
 
 ### ✏️ Edit Prescription
-![Edit Prescription](screenshots/editpre.png)
+![Edit Prescription](screenshot/editpre.png)
 
 ## 🔐 Security Notes
 
