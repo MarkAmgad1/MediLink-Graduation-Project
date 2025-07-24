@@ -18,13 +18,7 @@ This system allows doctors to prescribe medications digitally, patients to retri
 
 ## 📁 Folder Structure
 
-📁 mobile_app/           ← Mobile app for doctors
-📁 web_dashboard/        ← Web dashboard for pharmacists
-📄 README.md             ← وصف عام للمشروع بالكامل
-📄 LICENSE               ← MIT license
-📄 .gitignore            ← ملف التجاهل العام
-
-
+<pre> ``` MediLink-Graduation-Project/ ├── mobile_app/ # Flutter mobile app for doctors ├── web_dashboard/ # Flutter web dashboard for pharmacists ├── LICENSE ├── README.md # This file └── .gitignore ``` </pre>
 ---
 
 ## 👨‍🎓 Project Info
