@@ -60,51 +60,52 @@ flutter run
 
 Here are some screenshots from our MediLink doctor mobile app:
 
-### 🏠 First Screen
-![Home](screenshot/1.png)
+<h3>🏠 First Screen</h3>
+<img src="screenshot/1.png" width="250"/>
 
-### 🔐 Login Screen
-![Login](screenshot/login.png)
+<h3>🔐 Login Screen</h3>
+<img src="screenshot/login.png" width="250"/>
 
-### ❓ Forgot Password
-![Forgot Password](screenshot/forget.png)
+<h3>❓ Forgot Password</h3>
+<img src="screenshot/forget.png" width="250"/>
 
-### ❗ Create Account
-![Create Account 1](screenshot/ca1.png)
-![Create Account 2](screenshot/ca2.png)
+<h3>❗ Create Account</h3>
+<img src="screenshot/ca1.png" width="250"/>
+<img src="screenshot/ca2.png" width="250"/>
 
-### 🏠 Home Screen
-![Home](screenshot/homepage.png)
+<h3>🏠 Home Screen</h3>
+<img src="screenshot/homepage.png" width="250"/>
 
-### ⚙️ Settings
-![Settings](screenshot/settings.png)
+<h3>⚙️ Settings</h3>
+<img src="screenshot/settings.png" width="250"/>
 
-### 🌐 Language Selection
-![Language](screenshot/lang.png)
+<h3>🌐 Language Selection</h3>
+<img src="screenshot/lang.png" width="250"/>
 
-### 👤 Profile
-![Profile](screenshot/profile.png)
+<h3>👤 Profile</h3>
+<img src="screenshot/profile.png" width="250"/>
 
-### 🔒 Change Password
-![Change Password](screenshot/cp.png)
+<h3>🔒 Change Password</h3>
+<img src="screenshot/cp.png" width="250"/>
 
-### ℹ️ About Us
-![About Us](screenshot/aboutus.png)
+<h3>ℹ️ About Us</h3>
+<img src="screenshot/aboutus.png" width="250"/>
 
-### 📝 Add Prescription
-![Add Prescription](screenshot/addpre.png)
+<h3>📝 Add Prescription</h3>
+<img src="screenshot/addpre.png" width="250"/>
 
-### ➕ Add Medicine
-![Add Medicine ](screenshot/medicines.png)
+<h3>➕ Add Medicine</h3>
+<img src="screenshot/medicines.png" width="250"/>
 
-### 📃 Medicines List
-![Medicines List](screenshot/medicine.png)
+<h3>📃 Medicines List</h3>
+<img src="screenshot/medicine.png" width="250"/>
 
-### 📋 All Prescriptions
-![All Prescriptions](screenshot/allpre.png)
+<h3>📋 All Prescriptions</h3>
+<img src="screenshot/allpre.png" width="250"/>
 
-### ✏️ Edit Prescription
-![Edit Prescription](screenshot/editpre.png)
+<h3>✏️ Edit Prescription</h3>
+<img src="screenshot/editpre.png" width="250"/>
+
 
 ## 🔐 Security Notes
 
