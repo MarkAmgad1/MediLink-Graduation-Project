@@ -39,7 +39,7 @@ mobile_app/
 1. Clone the full MediLink repo and navigate to the mobile directory:
 
 ```bash
-git clone https://github.com/markamgad1234/MediLink-Graduation-Project.git
+git clone https://github.com/markamgad1/MediLink-Graduation-Project.git
 cd MediLink-Graduation-Project/mobile_app
 ```
 
